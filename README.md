@@ -1,2 +1,5 @@
-# Headpage
-这是自我介绍，请注意用语
+ # XIAO Qiuke
+ bachelor degree 2016
+ 
+ postergraduate 2018
+  
